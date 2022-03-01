@@ -303,10 +303,10 @@ background-position: -11px -13px;
 /*	border: 1px solid #999;*/
 	margin: 6px;
 	/*height: 150px;*/
+	overflow-x: scroll;
 	overflow-y: scroll;
-	overflow-x: hidden;
 	position:relative;
-    height: 300px;
+    	height: 300px;
 }
 
 #search .results b {
