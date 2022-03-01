@@ -305,6 +305,8 @@ background-position: -11px -13px;
 	/*height: 150px;*/
 	overflow-y: scroll;
 	overflow-x: hidden;
+	position:relative;
+    height: 300px;
 }
 
 #search .results b {
